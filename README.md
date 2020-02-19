@@ -1,2 +1,3 @@
 # sql-practice1
-Need to add "markdown" text to describe each step. will be done soon.
+I used wine magazine review data available on Kaggle to do this SQL analysis practice.
+Please take a look at my Jupyter notebook for detailed description. Thank you
